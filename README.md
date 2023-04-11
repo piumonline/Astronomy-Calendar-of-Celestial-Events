@@ -1,1 +1,1 @@
-#Astrometrical events calander made with Visual C#
+# Astrometrical events calander made with Visual C#
